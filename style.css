@@ -1,0 +1,35 @@
+.container{
+  height: 300px;
+  width: 300px;
+  margin: 30px auto;
+  background: linear-gradient(45deg,#000538, #000758);
+  color: white;
+  border: 2px dashed gray;
+  border-radius: 8px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-position: center;
+}
+i{
+  font-size: 60px;
+  color: white;
+}
+h1{
+  font-size: 30px;
+  margin: 10px 0px;
+}
+button{
+  padding: 4px 20px;
+  margin: 20px 0px;
+  color: white;
+  font-size: 15px;
+  border-radius: 10px;
+  border: 1px solid #252B65;
+  color: black;
+  font-weight: 600;
+  
+}
